@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
