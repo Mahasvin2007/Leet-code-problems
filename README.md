@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -28,4 +29,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
