@@ -34,6 +34,7 @@
 | [0018-4sum](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,6 +90,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
