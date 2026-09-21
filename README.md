@@ -18,6 +18,7 @@
 | [0016-3sum-closest](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0018-4sum) |
 | [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -32,6 +33,7 @@
 | [0016-3sum-closest](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0018-4sum) |
 | [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0220-contains-duplicate-iii](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0220-contains-duplicate-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,4 +127,9 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
