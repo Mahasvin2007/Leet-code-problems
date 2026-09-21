@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
