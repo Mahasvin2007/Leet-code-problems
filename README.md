@@ -17,6 +17,7 @@
 | [0015-3sum](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0018-4sum) |
+| [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -30,6 +31,7 @@
 | [0015-3sum](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0018-4sum) |
+| [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -57,6 +59,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -84,6 +87,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,4 +108,20 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0005-longest-palindromic-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Mahasvin2007/Leet-code-problems/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
